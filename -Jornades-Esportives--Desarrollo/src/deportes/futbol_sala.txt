@@ -1,0 +1,14 @@
+Cristina;Bermudez;38;Mujer;2ndo ASIX
+Luisa;Piesco;16;Mujer;2ndo ASIX
+Erik;Mendez;19;Hombre;2ndo DAW
+Manolo;Bermudez;31;Hombre;1ero ASIX
+Daniela;Carrillo;25;Mujer;2ndo Bachillerato
+Luisa;Palomares;62;Mujer;2ndo DAW
+Manolita;Carrasco;57;Mujer;1ero Bachillerato
+Erika;Palomares;20;Mujer;2ndo DAMT1
+Cristina;Hernan;48;Mujer;2ndo DAMT2
+Daniel;Guti;38;Hombre;2ndo DAMT1
+Erik;Carrillo;50;Hombre;2ndo DAMT1
+Luisa;Diez;83;Mujer;2ndo DAW
+Daniel;Hernan;2;Hombre;2ndo ASIX
+Daniel;Carrasco;48;Hombre;2ndo DAMT2
